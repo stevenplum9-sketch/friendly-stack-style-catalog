@@ -2,7 +2,7 @@
 
 **Copy-paste design briefs for people who build with AI.**
 
-*Design & curation by [Steven Plummer](https://github.com/stevenplummer)*
+*Design & curation by [Steven Plummer](https://github.com/stevenplum9-sketch)*
 
 ---
 
@@ -13,6 +13,24 @@ This is the fix.
 This repo is a menu. ~70 UI styles, each one a self-contained block you can drop into your AI coding tool and get something that actually looks *designed* — not generated. Every style has specific fonts, hex codes, spacing rules, motion specs, and a "distinctive element" that makes it impossible to confuse with anything else.
 
 Some of them are practical. Some of them are unhinged. All of them are better than another purple gradient.
+
+## Preview
+
+<p align="center">
+  <img src="images/cyberpunk.png" width="32%" alt="Cyberpunk Interface" />
+  <img src="images/memphis.png" width="32%" alt="Memphis Pop" />
+  <img src="images/noir.png" width="32%" alt="Noir Cinematic" />
+</p>
+<p align="center">
+  <img src="images/japanese.png" width="32%" alt="Japanese Minimalism" />
+  <img src="images/steampunk.png" width="32%" alt="Steampunk" />
+  <img src="images/poolrooms.png" width="32%" alt="Weirdcore Poolrooms" />
+</p>
+<p align="center">
+  <em>Cyberpunk Interface · Memphis Pop · Noir Cinematic · Japanese Minimalism · Steampunk · Weirdcore Poolrooms</em>
+</p>
+
+These are 6 out of ~70 styles. Full catalog: **[CATALOG.md](CATALOG.md)**
 
 ## How it works
 
@@ -52,9 +70,7 @@ then build the UI using those tokens.
 
 ## What's in here
 
-The catalog is organized into sections. Here's the territory:
-
-| Section | What it covers |
+| Section | Styles |
 |---|---|
 | **Minimal & Clean** | Swiss Precision, Japanese Minimalism, Scandinavian Functional, Monochrome Stripped |
 | **Bold & Expressive** | Neon Maximalist, Memphis Pop, Brutalist Web, Gradient Overload |
@@ -113,10 +129,6 @@ Weirdcore Maximum Uncanny (19D-v), Salvagepunk (19G), Brutalist Web (2C)
 
 **For when you want to have fun:**
 Memphis Pop (2B), 8-Bit Pixel (3D), Punk-a-Billy (17G)
-
-## Rendered demos
-
-The `/demos` folder has React components showing what these styles look like when actually built. They're grouped in sets — each file has a tab switcher so you can flip between styles and compare them.
 
 ## Why this exists
 
