@@ -29,6 +29,7 @@ Find a style. Copy the block. Paste it into your AI coding tool. Each style is s
 17. [CUSTOM & GENRE MASHUPS](#17-custom--genre-mashups)
 18. [HISTORICAL & REVIVAL](#18-historical--revival)
 19. [NICHE & UNDERGROUND](#19-niche--underground)
+20. [FAST FOOD NOSTALGIA](#20-fast-food-nostalgia)
 
 ---
 
@@ -3628,6 +3629,447 @@ MOTION:
 - Mostly slow and cinematic, with rare digital interruptions
 
 DISTINCTIVE ELEMENT: The collision of analog warmth and digital decay. Clean Deco typography and geometry, but with occasional glitch artifacts — a color-channel split, a scanline interruption, a pixel offset. As if a pristine 1930s film was digitized badly and the compression artifacts became part of the aesthetic. Sepia gold meets glitch cyan in moments of beautiful corruption.
+```
+
+---
+
+## 20. FAST FOOD NOSTALGIA
+
+---
+
+### 20A — 80s/90s Pizza Hut
+
+```
+STYLE: 80s/90s Pizza Hut
+VIBE: Red roof era. Dine-in Pizza Hut when it was a RESTAURANT, not a counter. Dark wood paneling, stained glass Tiffany lamps hanging over every booth, red vinyl seats, checkered tablecloths, and those indestructible red translucent cups. The arcade in the corner. Book It! pins on your shirt. Personal Pan Pizzas as a reward for reading. The warmest, darkest, coziest fast food interior that ever existed.
+
+TYPOGRAPHY:
+- Display: Passion One, Impact, or any ultra-bold condensed sans
+- Body: Nunito, Trebuchet MS, or Verdana
+- Heavy, bold display text — this is a brand that YELLED at you from the road
+- Uppercase headers with slight letter-spacing
+- Menu prices in the display font, large and confident
+
+COLORS:
+- Background: Dark wood (#1C1210) — the paneling IS the vibe
+- Primary: Pizza Hut red (#CC2222) — saturated, warm, not cool
+- Secondary: Cream/bone (#F5E6C8), warm wood brown (#8B5A2B)
+- Accent: Warm amber (#FFB43C) for the Tiffany lamp glow
+- Surface: Slightly lighter dark wood (#2A1A14) for menu boards
+- Checkered pattern: Red (#CC2222) and white (#FFFFFF)
+- No cool tones whatsoever — everything is warm, dark, enclosed
+
+SPACING:
+- Enclosed and cozy — you're IN the restaurant
+- Moderate padding (16-20px)
+- Content framed like a menu board (bordered panels)
+- Checkered strips as section dividers
+- Not airy — comfortably dense, like a packed Friday night
+
+BORDERS & SHAPES:
+- Red/white checkered patterns (repeating-conic-gradient) as borders and dividers
+- Wood paneling texture (subtle vertical repeating lines at low opacity)
+- Warm borders in wood brown (#8B5A2B)
+- Minimal border-radius (2-4px — booths have squared edges)
+- Tiffany lamp glow: radial gradient in warm amber positioned above content areas
+- Menu board style: dark background panels with warm borders
+
+MOTION:
+- Minimal — restaurants don't animate
+- Warm glow pulse on lamp elements (very subtle)
+- Slight slide on hover for menu items
+- Nothing flashy — the warmth is the experience
+
+DISTINCTIVE ELEMENT: The Tiffany lamp glow. A warm amber-orange radial gradient positioned above key content sections, simulating the hanging stained glass lamps that defined the dine-in experience. Combined with dark wood paneling texture (subtle vertical lines), red/white checkered accents, and the enclosed dark warmth, the UI feels like sliding into a vinyl booth on a Friday night in 1992. You can almost smell the breadsticks.
+```
+
+---
+
+### 20B — 80s/90s Taco Bell
+
+```
+STYLE: 80s/90s Taco Bell
+VIBE: Pre-rebrand Taco Bell when the buildings looked like miniature pueblo missions and the color palette was hot pink, desert purple, and southwest teal. The geometric zigzag pattern on every cup, wrapper, and wall. "Run for the Border" era. Desert sunset gradients. Terracotta tile roofs you could spot from three blocks away. When fast food architecture had OPINIONS about southwestern design. Bright, bold, and completely unapologetic.
+
+TYPOGRAPHY:
+- Display: Teko, Barlow Condensed (700+), or any tall condensed sans
+- Body: Nunito or system sans
+- Tall, condensed, uppercase display text — reads from a distance
+- Wide letter-spacing on labels (+0.1-0.15em)
+- Bold, confident sizing — nothing subtle
+
+COLORS:
+- Background: Warm stucco (#F5E8E0) or pink-tinted cream (#F0E0D8) — the building exterior
+- Primary: Hot pink (#CC4477) — THE Taco Bell color
+- Secondary: Southwest teal (#44BBAA), desert sunset orange (#E8734A)
+- Accent: Mission purple (#8844AA)
+- Gradient: The full sunset spectrum — orange → pink → purple
+- Text: Warm dark (#3A2A34) on light backgrounds
+- Everything bright and saturated — this is daylight, not nighttime
+
+SPACING:
+- Open and bright — you're approaching the building, not inside it
+- Moderate padding (16-20px)
+- Left-border accents on cards cycling through the signature colors
+- Generous gaps between sections
+- Content feels welcoming, not enclosed
+
+BORDERS & SHAPES:
+- THE zigzag diamond pattern: small squares rotated 45° in alternating pink/teal/orange/purple
+- Desert sunset gradient dividers (horizontal bars fading through the color spectrum)
+- Left-border accents (3px solid in rotating signature colors)
+- Minimal border-radius (4px) — pueblo architecture is angular
+- Zigzag SVG borders between sections
+- No heavy shadows — bright daylight aesthetic
+
+MOTION:
+- Minimal, warm — 250ms transitions
+- Color shift on hover (left border activates in the card's signature color)
+- Sunset gradient slow animation possible on hero elements
+- Nothing aggressive — fast food, not fast UI
+
+DISTINCTIVE ELEMENT: The geometric diamond/zigzag pattern. Small colored squares rotated 45° in repeating pink, teal, orange, and purple — the EXACT pattern from every Taco Bell cup and wrapper from 1985-2000. This pattern appears as dividers, borders, and decorative strips throughout the UI. Combined with the desert sunset gradient (orange → pink → purple) and the bright stucco background, the UI feels like pulling into a Taco Bell parking lot in 1994. The building is pink. The roof is terracotta. The value menu has items under a dollar. Life is good.
+```
+
+---
+
+### 20C — 90s McDonald's PlayPlace
+
+```
+STYLE: 90s McDonald's PlayPlace
+VIBE: Not the counter. Not the drive-thru. The INDOOR PLAYGROUND. Primary-colored tube slides, the ball pit, translucent purple and green plastic windows in the climbing structure. Grimace purple and Ronald red. Birthday parties at 2pm on a Saturday. Happy Meal toys. The most overstimulating interior design ever built for children, and you loved every second of it.
+
+TYPOGRAPHY:
+- Display: Fredoka One, Boogaloo, or Luckiest Guy — chunky, rounded, playful
+- Body: Nunito or Quicksand (rounded terminals)
+- CHUNKY. Everything is bold, rounded, and friendly.
+- Large sizes — designed to be read by a 6-year-old from across the room
+- No thin weights anywhere — minimum 600 weight
+
+COLORS:
+- Background: Bright primary yellow (#FFCC00) or warm red (#DD1111)
+- Primary: McDonald's red (#DD1111), golden yellow (#FFCC00)
+- Secondary: PlayPlace purple (#8833AA), tube-slide green (#33AA33), ball-pit blue (#2266CC)
+- Translucent plastic colors: rgba versions of purple and green at 30-50% (simulating those plastic windows)
+- White (#FFFFFF) for text on colored backgrounds
+- No muted tones, no pastels — full saturation, full volume
+
+SPACING:
+- Generous, child-friendly — big touch targets, big gaps
+- 20-24px base unit
+- Large padding in everything (24-32px)
+- Nothing close together — kids need room
+- Sections feel like different "zones" of the playground
+
+BORDERS & SHAPES:
+- Heavy border-radius (20-28px) — everything is rounded and safe
+- Thick colored borders (3-4px)
+- Translucent colored overlays on cards (simulating PlayPlace plastic)
+- Ball-pit dots: small colored circles scattered as decoration
+- Tube-slide curves: rounded connecting elements between sections
+- No sharp corners anywhere — this is a space designed for children falling into things
+
+MOTION:
+- Bouncy spring physics on everything
+- Scale-bounce on click (0.9 → 1.1 → 1.0)
+- Wobble on hover
+- Ball-pit scatter: small circles animate outward on interaction
+- Energetic — 150-200ms, overshoot easing
+- Nothing calm, nothing subtle
+
+DISTINCTIVE ELEMENT: Translucent colored panels. Cards and sections with semi-transparent purple, green, and blue backgrounds (rgba at 30-50%) simulating the colored plastic windows in the climbing structure tubes. Combined with the full-saturation primary color palette, ball-pit dot decorations, and chunky rounded typography, the UI feels like climbing through the PlayPlace at age 7. You can almost hear the shoes squeaking on the plastic.
+```
+
+---
+
+### 20D — Waffle House
+
+```
+STYLE: Waffle House
+VIBE: Yellow and black. Always open. 3am under fluorescent lights with coffee that's been on the burner since 11pm. Counter stools, the grill you can see from your seat, the jukebox in the corner. Scattered, smothered, covered, chunked — a vocabulary so specific it became a design language. The anti-aesthetic that became America's most beloved restaurant aesthetic. No pretension. No decoration. Just waffles and honesty.
+
+TYPOGRAPHY:
+- Display: Archivo Black, Impact, or any ultra-bold sans — no subtlety
+- Body: Verdana, Tahoma, or system sans — the most generic readable font
+- Uppercase headers — Waffle House doesn't whisper
+- Menu text: slightly condensed, practical, dense
+- No script fonts, no serifs, no elegance — that's the point
+
+COLORS:
+- Background: Waffle House yellow (#FFCC00) or fluorescent-lit off-white (#F5F0E0)
+- Primary: Black (#111111) — text, borders, everything structural
+- Secondary: Waffle House yellow (#FFCC00) — fills, highlights, the brand
+- Accent: Coffee brown (#6B4226), grill chrome (#AAA)
+- There are basically TWO colors: yellow and black. That's it.
+- Fluorescent light cast: slight green-yellow tint on white surfaces (#F5F5E8)
+- No gradients. Flat. Honest. Like the restaurant.
+
+SPACING:
+- Counter-stool tight — efficient, no wasted space
+- Compact padding (12-16px)
+- Dense information (the menu has a LOT on it)
+- No luxury whitespace — every square inch earns its keep
+- Content feels close, warm, immediate — you're at the counter, not across the room
+
+BORDERS & SHAPES:
+- No border-radius or very minimal (2px) — booths are square, counters are straight
+- Thick black borders (2-3px) on cards and sections
+- Yellow fill backgrounds with black text (the sign, the brand, the vibe)
+- Checkerboard or tile floor pattern possible (simple repeating squares)
+- Counter-edge line: a thick horizontal border representing the counter you're sitting at
+- No shadows, no depth — flat, fluorescent, honest
+
+MOTION:
+- Almost none — Waffle House doesn't animate
+- Hover: background flip between yellow and black (instant, not faded)
+- Maybe a coffee-steam wisp (very subtle, rising)
+- The stillness IS the design — it's 3am and nothing is in a hurry
+
+DISTINCTIVE ELEMENT: The yellow-and-black severity. Two colors. No gradients. No rounded corners. No pretension. Cards are yellow with black borders and black text, or black with yellow text. The whole UI looks like the Waffle House sign: a yellow rectangle with black block letters. Combined with tight, counter-stool spacing and fluorescent lighting tones, it's the most honest UI in the catalog. Open 24/7. No exceptions.
+```
+
+---
+
+### 20E — Sonic Drive-In
+
+```
+STYLE: Sonic Drive-In
+VIBE: The one that still looks like the 1950s because it basically IS the 1950s. Cherry red and bright yellow neon. Carhops on roller skates. Drive-in stalls with backlit menu boards and speaker boxes. Cherry limeades and tater tots. The American drive-in experience preserved in amber. Neon signs at dusk. Eating in your car was never this glamorous.
+
+TYPOGRAPHY:
+- Display: Passion One, Boogaloo, or Luckiest Guy — retro-bold, slightly playful
+- Body: Nunito or DM Sans — clean and readable
+- Retro-influenced display: rounded, bold, slightly condensed
+- Neon sign style for key headlines (glow effect, bright colors)
+- Menu board typography: clean, backlit, high contrast
+
+COLORS:
+- Background: Cherry red (#CC1133) or dusk blue (#1A2744)
+- Primary: Sonic yellow (#FFD700), cherry red (#CC1133)
+- Secondary: Neon blue (#00AAFF), cream (#FFF5E0)
+- Neon glow: yellow and blue with box-shadow blur (0 0 20px rgba(255,215,0,0.5))
+- Menu board: dark (#1A1A1A) with bright backlit text
+- Chrome/silver (#C0C0C0) for hardware accents (speaker boxes, stall posts)
+- Dusk gradient option: deep blue (#1A2744) → purple (#2A1A44) → dark (#0A0A15)
+
+SPACING:
+- Menu-board organized — clear sections, good hierarchy
+- Moderate padding (16-20px)
+- Content feels like it's displayed on a backlit panel
+- Drive-in stall framing: content in individual "bays"
+
+BORDERS & SHAPES:
+- Neon tube borders: colored borders (2-3px) with matching glow (box-shadow blur)
+- Rounded retro shapes (12-16px radius)
+- Menu board panels: dark background with bright content
+- Speaker box decorations: small circular elements with metallic finish
+- Chrome trim: thin silver borders on some elements
+- Stall dividers: vertical lines separating content "bays"
+
+MOTION:
+- Neon flicker on signs (subtle opacity oscillation)
+- Neon turn-on effect: elements glow to full brightness with slight delay
+- Slight bounce on interactive elements (carhop energy)
+- Hover: glow intensifies
+- Dusk-to-dark background gradient slow animation
+
+DISTINCTIVE ELEMENT: Neon glow on a dusk background. Key elements (headlines, borders, buttons) emit colored neon light — yellow and blue glows via box-shadow. Combined with the cherry red palette, menu-board-style dark panels, and chrome hardware accents, the UI feels like pulling into a Sonic stall at sunset. The menu lights up. The speaker crackles. Someone on roller skates is heading your way.
+```
+
+---
+
+### 20F — In-N-Out
+
+```
+STYLE: In-N-Out
+VIBE: California minimalism before minimalism was trendy. Red, white, and yellow. Crossed palm trees. An absurdly simple menu as a design philosophy. No gimmicks. No seasonal items. No seventeen sauces. Just the thing, done perfectly, every time. The anti-Cheesecake-Factory. The design ethos of "we do three things and we do them right." Clean, sunny, confident, and completely unbothered by trends.
+
+TYPOGRAPHY:
+- Display: DM Sans, Outfit, or any clean geometric sans — confident, not showy
+- Body: Same family at regular weight
+- Clean, unfussy, California-casual
+- Medium weights (500-600) — nothing too bold, nothing too light
+- The restraint in typography mirrors the restraint in the menu
+
+COLORS:
+- Background: Clean white (#FFFFFF) or very warm cream (#FFF8F0)
+- Primary: In-N-Out red (#CC2222) — saturated, warm, appetizing
+- Secondary: Golden yellow (#FFD700) — the arrow, the highlight
+- Accent: Palm tree green (#4A8B3A) used sparingly
+- Text: Rich near-black (#1A1A1A)
+- Surface: White, white, white — clean as the kitchen
+- No dark mode. No gradients. In-N-Out is a daytime brand.
+- The simplicity of the palette IS the design
+
+SPACING:
+- Clean and generous — California doesn't crowd
+- 16-20px base unit
+- Comfortable padding (20-24px in cards)
+- Plenty of white space — confidence in emptiness
+- Simple grid layouts — nothing complex needed
+- The menu has three items. The spacing has the same energy.
+
+BORDERS & SHAPES:
+- Minimal borders — use red and yellow as accent lines, not containers
+- Medium border-radius (8-12px) — friendly but not childish
+- Clean shadows (0 2px 8px rgba(0,0,0,0.06)) — barely there
+- Red arrow/chevron as a navigational element (the In-N-Out arrow)
+- Crossed palm tree silhouette as a decorative mark (SVG)
+- No ornamentation — the absence of decoration is the brand
+
+MOTION:
+- Simple, clean — 200-250ms ease-out
+- Hover: slight lift, subtle shadow increase
+- No bounce, no spring, no personality — functional
+- The UI is the product. It doesn't need to perform.
+
+DISTINCTIVE ELEMENT: Radical simplicity. The UI has almost nothing in it. Three cards, max. One accent color. One font. Huge white space. It's the design equivalent of a menu with three items: the confidence to show less because what you DO show is perfect. The crossed palm tree mark and the red-yellow-white palette are the only branding needed. Everything else is just space and trust.
+```
+
+---
+
+### 20G — 7-Eleven
+
+```
+STYLE: 7-Eleven
+VIBE: The green/orange/red triple stripe. One of the most recognizable color combos on the planet. Slurpee machines humming. Big Gulp energy. Fluorescent lighting at 3am. The hot dog that's been rolling since morning. The convenience store as liminal space — not quite a restaurant, not quite a store, always open, always slightly surreal. You're the only customer. The clerk is on their phone. The Slurpee machine is making a sound.
+
+TYPOGRAPHY:
+- Display: Archivo Black, Oswald, or any bold condensed sans
+- Body: DM Sans, Nunito, or system sans
+- Bold, simple, readable from across the store
+- Price tags: large, bold, condensed — designed to shout "2 FOR $3"
+- No elegance. Utility font choices. This is a CONVENIENCE store.
+
+COLORS:
+- Background: Fluorescent white (#F5F5F0) with slight green-yellow cast, or late-night black (#0A0A0A)
+- Primary: 7-Eleven green (#008761) — the dominant stripe
+- Secondary: 7-Eleven orange (#F7931E), 7-Eleven red (#E21836)
+- The triple stripe: green (#008761) + orange (#F7931E) + red (#E21836)
+- Surface: White (#FFFFFF) for day mode, dark (#1A1A1A) for late-night mode
+- Slurpee colors: electric blue (#0088FF), cherry red (#FF2244), cola brown (#4A2A1A)
+- Fluorescent light: slight sickly cast (shadows tinted very faintly green)
+
+SPACING:
+- Convenience-store density — lots of info in tight spaces
+- Small padding (12-16px)
+- Product-grid layouts (tight grids of items)
+- Price callouts large and prominent
+- Shelf-row organization — horizontal sections stacked
+
+BORDERS & SHAPES:
+- THE triple stripe: three horizontal bars (green, orange, red) as a header/divider element
+- Price burst shapes: starburst/explosion shapes around prices (clip-path or SVG)
+- Minimal border-radius (4-6px) — utilitarian
+- Shelf-tag borders: 1px solid borders on product cards
+- Neon sign effects for late-night mode (glow on the "OPEN" indicator)
+- No luxury details — everything is functional
+
+MOTION:
+- Slurpee swirl: slow color rotation animation on accent elements
+- Price flash: brief scale-up on price tags
+- Fluorescent flicker (very rare, very subtle, late-night mode only)
+- Door chime sound effect energy — interactions feel like entering the store
+
+DISTINCTIVE ELEMENT: The triple stripe. Three horizontal bars — green, orange, red — appearing as headers, dividers, and accent elements throughout the UI. It's one of the most efficient brand signals ever designed: three colors, three bars, instant recognition. Combined with the fluorescent-lit convenience store spacing and prominent price callouts, the UI feels like browsing the aisles at 2am. The Slurpee machine is calling.
+```
+
+---
+
+### 20H — QuikTrip
+
+```
+STYLE: QuikTrip
+VIBE: What a gas station looks like when someone actually DESIGNS it. QT red on bright clean white. Weirdly premium for a place that sells 44oz fountain drinks. The cleanest bathrooms. The most organized shelves. The employees wear matching uniforms and seem oddly happy. It's a gas station that makes you think "someone cares about this place." Midwestern operational excellence as an aesthetic.
+
+TYPOGRAPHY:
+- Display: Barlow (600-700), DM Sans, or any clean geometric sans
+- Body: Same family at regular weight
+- Clean, professional, well-organized — like the store itself
+- Nothing quirky, nothing dated — modern and functional
+- Bold headers that guide you through sections like aisle signs
+
+COLORS:
+- Background: Clean white (#FFFFFF) or very light gray (#F8F8F8)
+- Primary: QT red (#CC1122) — saturated, confident, not dark
+- Secondary: Dark charcoal (#222222) — the logo, structural text
+- Accent: Silver/chrome (#CCCCCC) for borders, light gray for sections
+- Surface: White with clean shadows — everything feels spotless
+- No warm tones — QT is cooler, more clinical than most fast food
+- The red-white-charcoal palette is the whole brand
+
+SPACING:
+- Organized and clean — 16px base unit
+- Consistent padding (20-24px)
+- Well-structured grid layouts — everything aligned, nothing out of place
+- Section dividers clean and clear
+- The spacing communicates: "we have our act together"
+
+BORDERS & SHAPES:
+- Clean borders (1px #E0E0E0) — precise, not decorative
+- Medium border-radius (8px) — modern but not playful
+- Clean shadows (0 1px 4px rgba(0,0,0,0.06))
+- Red accent bars as section headers (full-width red backgrounds with white text)
+- No noise, no texture, no grunge — this is the cleanest gas station in America
+- Structured cards in consistent sizes — the shelves are always stocked and aligned
+
+MOTION:
+- Clean and functional (200ms ease-out)
+- Hover: subtle shadow increase
+- No personality in animation — efficiency IS the personality
+- Fast, responsive — like the checkout line at QT
+
+DISTINCTIVE ELEMENT: Operational cleanliness. The UI looks organized in a way that feels almost aggressive. Every card is the same size. Every border is the same width. Every section header is a red bar with white text. Nothing is misaligned. Nothing is messy. It's the design equivalent of walking into a QuikTrip and realizing the bathroom is cleaner than your apartment. Red, white, and charcoal — simple, spotless, weirdly satisfying.
+```
+
+---
+
+### 20I — Buc-ee's
+
+```
+STYLE: Buc-ee's
+VIBE: The beaver. Texas-scale EVERYTHING. A gas station with 120 pumps, a wall of beef jerky, a fudge counter, and its own clothing line. The cleanest bathrooms in America as a BRAND IDENTITY. Yellow, red, and a cartoon beaver face that's burned into the memory of every person who's driven through Texas. It's a truck stop that became a pilgrimage. The aesthetic of excess, friendliness, and supreme confidence in being the biggest thing on the highway.
+
+TYPOGRAPHY:
+- Display: Passion One, Boogaloo, or any chunky bold display font
+- Body: Nunito, Quicksand, or any rounded friendly sans
+- BIG. Everything is big. This is Texas, not a minimalist portfolio.
+- Rounded, friendly, approachable — the beaver is smiling
+- Bold weights (700-900) on display text
+- Occasional all-caps for emphasis — BUC-EE'S DOESN'T WHISPER
+
+COLORS:
+- Background: Bright yellow (#FFD700) or clean white (#FFFFFF)
+- Primary: Buc-ee's yellow (#FFD700) — the dominant brand color
+- Secondary: Buc-ee's red (#CC2222), dark brown (#3A2A1A) — the beaver's colors
+- Accent: Beaver brown (#6B4226), sky blue (#4A90CC)
+- Text: Dark brown (#2A1A0A) on yellow, white on red
+- Everything BRIGHT and FRIENDLY — this is a happy place
+- No dark mode. Buc-ee's is a daytime destination. There are floodlights.
+
+SPACING:
+- Texas-sized — generous, expansive, big touch targets
+- 20-24px base unit
+- Large padding (28-36px in cards)
+- Nothing cramped — there are 120 gas pumps, there's ROOM
+- Content feels big, welcoming, slightly overwhelming (on purpose)
+
+BORDERS & SHAPES:
+- Rounded corners (16-20px) — friendly, approachable
+- Beaver-face silhouette as a logo/watermark element
+- Thick borders in brown or red (3px)
+- Badge/shield shapes for featured items (road sign energy)
+- Highway sign aesthetic: bold text on colored backgrounds
+- Starburst price callouts (SVG) for deals
+
+MOTION:
+- Bouncy and friendly (200-300ms, slight overshoot)
+- Scale-up on hover (1.03-1.05)
+- Beaver emoji 🦫 as a loading indicator (bounce animation)
+- Interactive elements feel satisfying to click
+- Everything communicates welcome and enthusiasm
+
+DISTINCTIVE ELEMENT: Scale as brand identity. Everything is oversized — fonts, padding, buttons, cards. The UI feels like the store: you walk in expecting a gas station and find a 68,000 sq ft retail experience with its own mascot. Yellow dominates everything like the massive highway billboards ("Buc-ee's: 237 miles"). Combined with rounded friendly shapes, beaver motif decorations, and road-sign-style badges, the UI feels like a Texas road trip destination, not a webpage. The bathrooms are immaculate. The beaver is smiling. There's fudge.
 ```
 
 ---
