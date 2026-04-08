@@ -10,7 +10,7 @@ You know that moment when you're vibecoding at midnight and you tell Claude or C
 
 This is the fix.
 
-This repo is a menu. ~70 UI styles, each one a self-contained block you can drop into your AI coding tool and get something that actually looks *designed* — not generated. Every style has specific fonts, hex codes, spacing rules, motion specs, and a "distinctive element" that makes it impossible to confuse with anything else.
+This repo is a menu. 89 UI styles across 20 categories, each one a self-contained block you can drop into your AI coding tool and get something that actually looks *designed* — not generated. Every style has specific fonts, hex codes, spacing rules, motion specs, and a "distinctive element" that makes it impossible to confuse with anything else.
 
 Some of them are practical. Some of them are unhinged. All of them are better than another purple gradient.
 
@@ -30,7 +30,7 @@ Some of them are practical. Some of them are unhinged. All of them are better th
   <em>Cyberpunk Interface · Memphis Pop · Noir Cinematic · Japanese Minimalism · Steampunk · Weirdcore Poolrooms</em>
 </p>
 
-These are 6 out of ~70 styles. Full catalog: **[CATALOG.md](CATALOG.md)**
+These are 6 out of 89 styles. Full catalog: **[CATALOG.md](CATALOG.md)**
 
 ## How it works
 
@@ -91,6 +91,7 @@ then build the UI using those tokens.
 | **Custom & Genre Mashups** | Cypherpunk, Rockabilly, Steampunk, Space Western, Enlightenment Era, Techno-Anarchist, Punk-a-Billy, Techno-Anarchocapitalist |
 | **Historical & Revival** | Constructivist Propaganda, Zoot Suit / Pachuco, Vienna Secession, Metabolist Architecture, Frutiger Aero |
 | **Niche & Underground** | Cottagecore Tech, Dark Academia, Goblincore, Weirdcore (5 variants), Cassette Futurism, Diesel Deco, Salvagepunk, Hauntology, Dieselwave |
+| **Fast Food & Convenience** | 80s/90s Pizza Hut, 80s/90s Taco Bell, 90s McDonald's PlayPlace, Waffle House, Sonic Drive-In, In-N-Out, 7-Eleven, QuikTrip, Buc-ee's |
 
 Full catalog with every style block: **[CATALOG.md](CATALOG.md)**
 
