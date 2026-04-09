@@ -30,6 +30,10 @@ Find a style. Copy the block. Paste it into your AI coding tool. Each style is s
 18. [HISTORICAL & REVIVAL](#18-historical--revival)
 19. [NICHE & UNDERGROUND](#19-niche--underground)
 20. [FAST FOOD NOSTALGIA](#20-fast-food-nostalgia)
+21. [MOVIE & FILM INSPIRED](#21-movie--film-inspired)
+22. [MUSIC GENRES](#22-music-genres)
+23. [DECADES](#23-decades)
+24. [PLACES](#24-places)
 
 ---
 
@@ -4070,6 +4074,1234 @@ MOTION:
 - Everything communicates welcome and enthusiasm
 
 DISTINCTIVE ELEMENT: Scale as brand identity. Everything is oversized — fonts, padding, buttons, cards. The UI feels like the store: you walk in expecting a gas station and find a 68,000 sq ft retail experience with its own mascot. Yellow dominates everything like the massive highway billboards ("Buc-ee's: 237 miles"). Combined with rounded friendly shapes, beaver motif decorations, and road-sign-style badges, the UI feels like a Texas road trip destination, not a webpage. The bathrooms are immaculate. The beaver is smiling. There's fudge.
+```
+
+---
+
+### 20C — 90s McDonald's PlayPlace
+
+```
+STYLE: 90s McDonald's PlayPlace
+VIBE: Not the counter. Not the drive-thru. The INDOOR PLAYGROUND. Primary-colored tube slides, the ball pit, translucent purple and green plastic windows in the climbing structure. Grimace purple and Ronald red. Birthday parties at 2pm on a Saturday. Happy Meal toys. The most overstimulating interior design ever built for children, and you loved every second of it.
+
+TYPOGRAPHY:
+- Display: Fredoka One, Boogaloo, or Luckiest Guy — chunky, rounded, playful
+- Body: Nunito or Quicksand (rounded terminals)
+- CHUNKY. Everything is bold, rounded, and friendly.
+- Large sizes — designed to be read by a 6-year-old from across the room
+- No thin weights anywhere — minimum 600 weight
+
+COLORS:
+- Background: Bright primary yellow (#FFCC00) or warm red (#DD1111)
+- Primary: McDonald's red (#DD1111), golden yellow (#FFCC00)
+- Secondary: PlayPlace purple (#8833AA), tube-slide green (#33AA33), ball-pit blue (#2266CC)
+- Translucent plastic colors: rgba versions of purple and green at 30-50% (simulating those plastic windows)
+- White (#FFFFFF) for text on colored backgrounds
+- No muted tones, no pastels — full saturation, full volume
+
+SPACING:
+- Generous, child-friendly — big touch targets, big gaps
+- 20-24px base unit
+- Large padding in everything (24-32px)
+- Nothing close together — kids need room
+- Sections feel like different "zones" of the playground
+
+BORDERS & SHAPES:
+- Heavy border-radius (20-28px) — everything is rounded and safe
+- Thick colored borders (3-4px)
+- Translucent colored overlays on cards (simulating PlayPlace plastic)
+- Ball-pit dots: small colored circles scattered as decoration
+- Tube-slide curves: rounded connecting elements between sections
+- No sharp corners anywhere — this is a space designed for children falling into things
+
+MOTION:
+- Bouncy spring physics on everything
+- Scale-bounce on click (0.9 → 1.1 → 1.0)
+- Wobble on hover
+- Ball-pit scatter: small circles animate outward on interaction
+- Energetic — 150-200ms, overshoot easing
+- Nothing calm, nothing subtle
+
+DISTINCTIVE ELEMENT: Translucent colored panels. Cards and sections with semi-transparent purple, green, and blue backgrounds (rgba at 30-50%) simulating the colored plastic windows in the climbing structure tubes. Combined with the full-saturation primary color palette, ball-pit dot decorations, and chunky rounded typography, the UI feels like climbing through the PlayPlace at age 7. You can almost hear the shoes squeaking on the plastic.
+```
+
+---
+
+### 20D — Waffle House
+
+```
+STYLE: Waffle House
+VIBE: Yellow and black. Always open. 3am under fluorescent lights with coffee that's been on the burner since 11pm. Counter stools, the grill you can see from your seat, the jukebox in the corner. Scattered, smothered, covered, chunked — a vocabulary so specific it became a design language. The anti-aesthetic that became America's most beloved restaurant aesthetic. No pretension. No decoration. Just waffles and honesty.
+
+TYPOGRAPHY:
+- Display: Arial Black, Impact, or any ultra-bold sans — no subtlety
+- Body: Verdana, Tahoma, or system sans — the most generic readable font
+- Uppercase headers — Waffle House doesn't whisper
+- Menu text: slightly condensed, practical, dense
+- No script fonts, no serifs, no elegance — that's the point
+
+COLORS:
+- Background: Waffle House yellow (#FFCC00) or fluorescent-lit off-white (#F5F0E0)
+- Primary: Black (#111111) — text, borders, everything structural
+- Secondary: Waffle House yellow (#FFCC00) — fills, highlights, the brand
+- Accent: Coffee brown (#6B4226), grill chrome (#AAA)
+- There are basically TWO colors: yellow and black. That's it.
+- Fluorescent light cast: slight green-yellow tint on white surfaces (#F5F5E8)
+- No gradients. Flat. Honest. Like the restaurant.
+
+SPACING:
+- Counter-stool tight — efficient, no wasted space
+- Compact padding (12-16px)
+- Dense information (the menu has a LOT on it)
+- No luxury whitespace — every square inch earns its keep
+- Content feels close, warm, immediate — you're at the counter, not across the room
+
+BORDERS & SHAPES:
+- No border-radius or very minimal (2px) — booths are square, counters are straight
+- Thick black borders (2-3px) on cards and sections
+- Yellow fill backgrounds with black text (the sign, the brand, the vibe)
+- Checkerboard or tile floor pattern possible (simple repeating squares)
+- Counter-edge line: a thick horizontal border representing the counter you're sitting at
+- No shadows, no depth — flat, fluorescent, honest
+
+MOTION:
+- Almost none — Waffle House doesn't animate
+- Hover: background flip between yellow and black (instant, not faded)
+- Maybe a coffee-steam wisp (very subtle, rising)
+- The stillness IS the design — it's 3am and nothing is in a hurry
+
+DISTINCTIVE ELEMENT: The yellow-and-black severity. Two colors. No gradients. No rounded corners. No pretension. Cards are yellow with black borders and black text, or black with yellow text. The whole UI looks like the Waffle House sign: a yellow rectangle with black block letters. Combined with tight, counter-stool spacing and fluorescent lighting tones, it's the most honest UI in the catalog. Open 24/7. No exceptions.
+```
+
+---
+
+### 20E — Sonic Drive-In
+
+```
+STYLE: Sonic Drive-In
+VIBE: The one that still looks like the 1950s because it basically IS the 1950s. Cherry red and bright yellow neon. Carhops on roller skates. Drive-in stalls with backlit menu boards and speaker boxes. Cherry limeades and tater tots. The American drive-in experience preserved in amber. Neon signs at dusk. Eating in your car was never this glamorous.
+
+TYPOGRAPHY:
+- Display: Passion One, Boogaloo, or Luckiest Guy — retro-bold, slightly playful
+- Body: Nunito or DM Sans — clean and readable
+- Retro-influenced display: rounded, bold, slightly condensed
+- Neon sign style for key headlines (glow effect, bright colors)
+- Menu board typography: clean, backlit, high contrast
+
+COLORS:
+- Background: Cherry red (#CC1133) or dusk blue (#1A2744)
+- Primary: Sonic yellow (#FFD700), cherry red (#CC1133)
+- Secondary: Neon blue (#00AAFF), cream (#FFF5E0)
+- Neon glow: yellow and blue with box-shadow blur (0 0 20px rgba(255,215,0,0.5))
+- Menu board: dark (#1A1A1A) with bright backlit text
+- Chrome/silver (#C0C0C0) for hardware accents (speaker boxes, stall posts)
+- Dusk gradient option: deep blue (#1A2744) → purple (#2A1A44) → dark (#0A0A15)
+
+SPACING:
+- Menu-board organized — clear sections, good hierarchy
+- Moderate padding (16-20px)
+- Content feels like it's displayed on a backlit panel
+- Drive-in stall framing: content in individual "bays"
+
+BORDERS & SHAPES:
+- Neon tube borders: colored borders (2-3px) with matching glow (box-shadow blur)
+- Rounded retro shapes (12-16px radius)
+- Menu board panels: dark background with bright content
+- Speaker box decorations: small circular elements with metallic finish
+- Chrome trim: thin silver borders on some elements
+- Stall dividers: vertical lines separating content "bays"
+
+MOTION:
+- Neon flicker on signs (subtle opacity oscillation)
+- Neon turn-on effect: elements glow to full brightness with slight delay
+- Slight bounce on interactive elements (carhop energy)
+- Hover: glow intensifies
+- Dusk-to-dark background gradient slow animation
+
+DISTINCTIVE ELEMENT: Neon glow on a dusk background. Key elements (headlines, borders, buttons) emit colored neon light — yellow and blue glows via box-shadow. Combined with the cherry red palette, menu-board-style dark panels, and chrome hardware accents, the UI feels like pulling into a Sonic stall at sunset. The menu lights up. The speaker crackles. Someone on roller skates is heading your way.
+```
+
+---
+
+### 20F — In-N-Out
+
+```
+STYLE: In-N-Out
+VIBE: California minimalism before minimalism was trendy. Red, white, and yellow. Crossed palm trees. An absurdly simple menu as a design philosophy. No gimmicks. No seasonal items. No seventeen sauces. Just the thing, done perfectly, every time. The anti-Cheesecake-Factory. The design ethos of "we do three things and we do them right." Clean, sunny, confident, and completely unbothered by trends.
+
+TYPOGRAPHY:
+- Display: DM Sans, Outfit, or any clean geometric sans — confident, not showy
+- Body: Same family at regular weight
+- Clean, unfussy, California-casual
+- Medium weights (500-600) — nothing too bold, nothing too light
+- The restraint in typography mirrors the restraint in the menu
+
+COLORS:
+- Background: Clean white (#FFFFFF) or very warm cream (#FFF8F0)
+- Primary: In-N-Out red (#CC2222) — saturated, warm, appetizing
+- Secondary: Golden yellow (#FFD700) — the arrow, the highlight
+- Accent: Palm tree green (#4A8B3A) used sparingly
+- Text: Rich near-black (#1A1A1A)
+- Surface: White, white, white — clean as the kitchen
+- No dark mode. No gradients. In-N-Out is a daytime brand.
+- The simplicity of the palette IS the design
+
+SPACING:
+- Clean and generous — California doesn't crowd
+- 16-20px base unit
+- Comfortable padding (20-24px in cards)
+- Plenty of white space — confidence in emptiness
+- Simple grid layouts — nothing complex needed
+- The menu has three items. The spacing has the same energy.
+
+BORDERS & SHAPES:
+- Minimal borders — use red and yellow as accent lines, not containers
+- Medium border-radius (8-12px) — friendly but not childish
+- Clean shadows (0 2px 8px rgba(0,0,0,0.06)) — barely there
+- Red arrow/chevron as a navigational element (the In-N-Out arrow)
+- Crossed palm tree silhouette as a decorative mark (SVG)
+- No ornamentation — the absence of decoration is the brand
+
+MOTION:
+- Simple, clean — 200-250ms ease-out
+- Hover: slight lift, subtle shadow increase
+- No bounce, no spring, no personality — functional
+- The UI is the product. It doesn't need to perform.
+
+DISTINCTIVE ELEMENT: Radical simplicity. The UI has almost nothing in it. Three cards, max. One accent color. One font. Huge white space. It's the design equivalent of a menu with three items: the confidence to show less because what you DO show is perfect. The crossed palm tree mark and the red-yellow-white palette are the only branding needed. Everything else is just space and trust.
+```
+
+---
+
+### 20G — 7-Eleven
+
+```
+STYLE: 7-Eleven
+VIBE: The green/orange/red triple stripe. One of the most recognizable color combos on the planet. Slurpee machines humming. Big Gulp energy. Bright fluorescent lighting. The hot dog that's been rolling since morning. The convenience store as liminal space — not quite a restaurant, not quite a store, always open, always slightly surreal. You're the only customer. The clerk is on their phone. The Slurpee machine is making a sound.
+
+TYPOGRAPHY:
+- Display: Archivo Black, Oswald, or any bold condensed sans
+- Body: DM Sans, Nunito, or system sans
+- Bold, simple, readable from across the store
+- Price tags: large, bold, condensed — designed to shout "2 FOR $3"
+- No elegance. Utility font choices. This is a CONVENIENCE store.
+
+COLORS:
+- Background: Fluorescent white (#F5F5F0) with slight green-yellow cast
+- Primary: 7-Eleven green (#008761) — the dominant stripe
+- Secondary: 7-Eleven orange (#F7931E), 7-Eleven red (#E21836)
+- The triple stripe: green (#008761) + white gap + orange (#F7931E) + white gap + red (#E21836)
+- Surface: White (#FFFFFF) for cards — bright, lit, clean
+- Slurpee colors: electric blue (#0088FF), cherry red (#FF2244) for price callouts
+- Fluorescent light: slight sickly cast on background (shadows tinted faintly green)
+
+SPACING:
+- Convenience-store density — lots of info in tight spaces
+- Small padding (12-16px)
+- Product-grid layouts (tight grids of items)
+- Price callouts large and prominent
+- Shelf-row organization — horizontal sections stacked
+
+BORDERS & SHAPES:
+- THE triple stripe with WHITE GAPS between each colored bar — as header/divider element
+- Price burst shapes: starburst/explosion shapes around prices (clip-path or SVG)
+- Minimal border-radius (4-6px) — utilitarian
+- Shelf-tag borders: 1px solid borders on product cards
+- Left-border accents cycling through green, orange, red
+- No luxury details — everything is functional
+
+MOTION:
+- Slurpee swirl: slow color rotation animation on accent elements
+- Price flash: brief scale-up on price tags
+- Minimal overall — convenience stores don't perform
+- Hover: subtle shadow increase, background brighten
+
+DISTINCTIVE ELEMENT: The triple stripe with white gaps. Three horizontal bars — green, white space, orange, white space, red — appearing as headers, dividers, and accent elements throughout the UI. The white gaps between stripes are critical to the brand identity and must not be omitted. Combined with bright fluorescent-white backgrounds, prominent price callouts, and utilitarian spacing, the UI feels like browsing the aisles under humming fluorescent tubes. The Slurpee machine is calling.
+```
+
+---
+
+### 20H — QuikTrip
+
+```
+STYLE: QuikTrip
+VIBE: What a gas station looks like when someone actually DESIGNS it. QT red on bright clean white. Weirdly premium for a place that sells 44oz fountain drinks. The cleanest bathrooms. The most organized shelves. The employees wear matching uniforms and seem oddly happy. It's a gas station that makes you think "someone cares about this place." Midwestern operational excellence as an aesthetic.
+
+TYPOGRAPHY:
+- Display: Barlow (600-700), DM Sans, or any clean geometric sans
+- Body: Same family at regular weight
+- Clean, professional, well-organized — like the store itself
+- Nothing quirky, nothing dated — modern and functional
+- Bold headers that guide you through sections like aisle signs
+
+COLORS:
+- Background: Clean white (#FFFFFF) or very light gray (#F8F8F8)
+- Primary: QT red (#CC1122) — saturated, confident, not dark
+- Secondary: Dark charcoal (#222222) — the logo, structural text
+- Accent: Silver/chrome (#CCCCCC) for borders, light gray for sections
+- Surface: White with clean shadows — everything feels spotless
+- No warm tones — QT is cooler, more clinical than most fast food
+- The red-white-charcoal palette is the whole brand
+
+SPACING:
+- Organized and clean — 16px base unit
+- Consistent padding (20-24px)
+- Well-structured grid layouts — everything aligned, nothing out of place
+- Section dividers clean and clear
+- The spacing communicates: "we have our act together"
+
+BORDERS & SHAPES:
+- Clean borders (1px #E0E0E0) — precise, not decorative
+- Medium border-radius (8px) — modern but not playful
+- Clean shadows (0 1px 4px rgba(0,0,0,0.06))
+- Red accent bars as section headers (full-width red backgrounds with white text)
+- No noise, no texture, no grunge — this is the cleanest gas station in America
+- Structured cards in consistent sizes — the shelves are always stocked and aligned
+
+MOTION:
+- Clean and functional (200ms ease-out)
+- Hover: subtle shadow increase
+- No personality in animation — efficiency IS the personality
+- Fast, responsive — like the checkout line at QT
+
+DISTINCTIVE ELEMENT: Operational cleanliness. The UI looks organized in a way that feels almost aggressive. Every card is the same size. Every border is the same width. Every section header is a red bar with white text. Nothing is misaligned. Nothing is messy. It's the design equivalent of walking into a QuikTrip and realizing the bathroom is cleaner than your apartment. Red, white, and charcoal — simple, spotless, weirdly satisfying.
+```
+
+---
+
+### 20I — Buc-ee's
+
+```
+STYLE: Buc-ee's
+VIBE: The beaver. Texas-scale EVERYTHING. A gas station with 120 pumps, a wall of beef jerky, a fudge counter, and its own clothing line. The cleanest bathrooms in America as a BRAND IDENTITY. Yellow, red, and a cartoon beaver face that's burned into the memory of every person who's driven through Texas. It's a truck stop that became a pilgrimage. The aesthetic of excess, friendliness, and supreme confidence in being the biggest thing on the highway.
+
+TYPOGRAPHY:
+- Display: Passion One, Boogaloo, or any chunky bold display font
+- Body: Nunito, Quicksand, or any rounded friendly sans
+- BIG. Everything is big. This is Texas, not a minimalist portfolio.
+- Rounded, friendly, approachable — the beaver is smiling
+- Bold weights (700-900) on display text
+- Occasional all-caps for emphasis — BUC-EE'S DOESN'T WHISPER
+
+COLORS:
+- Background: Bright yellow (#FFD700) or clean white (#FFFFFF)
+- Primary: Buc-ee's yellow (#FFD700) — the dominant brand color
+- Secondary: Buc-ee's red (#CC2222), dark brown (#3A2A1A) — the beaver's colors
+- Accent: Beaver brown (#6B4226), sky blue (#4A90CC)
+- Text: Dark brown (#2A1A0A) on yellow, white on red
+- Everything BRIGHT and FRIENDLY — this is a happy place
+- No dark mode. Buc-ee's is a daytime destination. There are floodlights.
+
+SPACING:
+- Texas-sized — generous, expansive, big touch targets
+- 20-24px base unit
+- Large padding (28-36px in cards)
+- Nothing cramped — there are 120 gas pumps, there's ROOM
+- Content feels big, welcoming, slightly overwhelming (on purpose)
+
+BORDERS & SHAPES:
+- Rounded corners (16-20px) — friendly, approachable
+- Beaver-face silhouette as a logo/watermark element
+- Thick borders in brown or red (3px)
+- Badge/shield shapes for featured items (road sign energy)
+- Highway sign aesthetic: bold text on colored backgrounds
+- Starburst price callouts (SVG) for deals
+
+MOTION:
+- Bouncy and friendly (200-300ms, slight overshoot)
+- Scale-up on hover (1.03-1.05)
+- Beaver emoji 🦫 as a loading indicator (bounce animation)
+- Interactive elements feel satisfying to click
+- Everything communicates welcome and enthusiasm
+
+DISTINCTIVE ELEMENT: Scale as brand identity. Everything is oversized — fonts, padding, buttons, cards. The UI feels like the store: you walk in expecting a gas station and find a 68,000 sq ft retail experience with its own mascot. Yellow dominates everything like the massive highway billboards ("Buc-ee's: 237 miles"). Combined with rounded friendly shapes, beaver motif decorations, and road-sign-style badges, the UI feels like a Texas road trip destination, not a webpage. The bathrooms are immaculate. The beaver is smiling. There's fudge.
+```
+
+---
+
+## 21. MOVIE & FILM INSPIRED
+
+---
+
+### 21A — Tron
+
+```
+STYLE: Tron
+VIBE: Inside the computer. The Grid. Black void with electric blue circuit traces and neon geometry. Light cycles leaving glowing trails. Everything exists as luminous edges on absolute darkness. Not Cyberpunk (which is urban and cluttered) — Tron is EMPTY. A vast black plane with geometric light. The UI is the architecture. The architecture is the UI. Everything glows. Nothing is solid.
+
+TYPOGRAPHY:
+- Display: Orbitron, Rajdhani, or Teko — geometric, angular, digital
+- Body: Exo 2, Rajdhani, or any clean geometric sans
+- Clean, angular letterforms — nothing organic
+- Medium weights for display, light for body
+- Wide letter-spacing (+0.1em) — text is a design element, not just content
+- Text glows: text-shadow in accent color at 4-8px blur
+
+COLORS:
+- Background: True black (#000000) — not near-black, TRUE black (the void)
+- Primary: Tron blue (#00D4FF) — electric, vivid cyan-blue
+- Secondary: Tron orange (#FF6600) for enemy/alternate elements (Rinzler's color)
+- White (#FFFFFF) at 10-20% opacity for grid lines
+- Everything else is black and blue glow
+- Glow effects: box-shadow and text-shadow in #00D4FF at 30-60% opacity, blurred 10-30px
+- No warm tones unless using the orange as a deliberate contrast
+
+SPACING:
+- Vast and geometric — the Grid is infinite
+- Content floats in darkness with generous margins
+- Grid lines visible in background (thin white lines at very low opacity)
+- Symmetrical, centered compositions
+- Sections feel like platforms floating in the void
+
+BORDERS & SHAPES:
+- Glowing borders: 1-2px solid #00D4FF with matching box-shadow glow
+- No border-radius (the Grid is angular) OR very specific rounded shapes (light disc curves)
+- Circuit trace decorations: thin glowing lines connecting elements (SVG paths with glow)
+- Grid floor: perspective grid receding to horizon (CSS perspective + repeating gradient)
+- Corner brackets/accents at card corners (short line segments, not full borders)
+- No fill colors — everything is outlined, wireframe, luminous edges on void
+
+MOTION:
+- Light trail effect: elements leave a brief glow trail when appearing (box-shadow that fades)
+- Circuit trace drawing animation (SVG stroke-dasharray)
+- Grid pulse: subtle brightness wave traveling along grid lines
+- Elements materialize from darkness (opacity 0 + slight scale from 0.95)
+- Smooth, digital, precise — 200-300ms ease-out
+
+DISTINCTIVE ELEMENT: Luminous wireframes on void. No element has a solid fill — everything is defined by its glowing edges on pure black. Cards are transparent with glowing blue borders. Text emits light. Circuit-trace SVG lines connect elements. The Grid floor (perspective lines receding to a vanishing point) appears as a background element. The UI feels like standing inside a computer where geometry is the only reality and light is the only material.
+```
+
+---
+
+### 21B — The Matrix
+
+```
+STYLE: The Matrix
+VIBE: Green rain code on black. You are inside the simulation. Phosphor green EVERYTHING — text, borders, accents, glows. The UI is a terminal into reality. Monospace throughout. Numbers and characters cascade. The red pill / blue pill is the only color decision. Everything else is green on black, like watching the world through the code that generates it.
+
+TYPOGRAPHY:
+- Everything: Fira Code, Share Tech Mono, or IBM Plex Mono — MONOSPACE ONLY
+- No proportional fonts. The Matrix is code. Code is monospace.
+- Display text in monospace at larger sizes, not a different font
+- Characters with slight glow (text-shadow in green)
+- Half-width katakana (ﾊﾐﾋ) mixed into decorative elements
+- Line-height tight (1.4-1.5) — dense like a terminal
+
+COLORS:
+- Background: Matrix black (#000A00) — not pure black, very very dark green-black
+- Primary: Matrix green (#00FF41) — THE green. Phosphor green. Full saturation.
+- Secondary: Dark green (#003B00) for backgrounds, muted elements
+- Dim text: (#00AA2A) for secondary content
+- Accent: Red pill (#CC0000) used ONCE per screen for one critical action
+- Blue pill option: (#0044CC) used as the alternative to the red accent
+- No other colors. Green and black. That's the simulation.
+
+SPACING:
+- Terminal density — tight, grid-aligned
+- Character-width-based spacing (multiples of the monospace character width)
+- Content left-aligned, not centered (terminals don't center)
+- Tight line-height, tight padding (8-12px)
+- Dense information — the Matrix is data, not whitespace
+
+BORDERS & SHAPES:
+- No border-radius — the Matrix is a grid, not a cloud
+- Thin green borders (1px solid #00FF41 at 30-50% opacity)
+- ASCII-style borders possible (┌──┐ │ │ └──┘)
+- No shadows — use green glow instead (box-shadow: 0 0 10px rgba(0,255,65,0.2))
+- Rain code as background decoration (animated vertical streams of characters)
+- Scanline overlay at very low opacity
+
+MOTION:
+- Digital rain: columns of random characters falling vertically (the signature effect)
+- Text typing animation (characters appear one at a time, fast)
+- Glitch moments: brief horizontal displacement
+- Elements "resolve" from random characters to readable text
+- No smooth fades — things are either rendered or they're not
+
+DISTINCTIVE ELEMENT: The digital rain. Columns of cascading green characters (mix of Latin, katakana, and numbers) falling down the background at varying speeds and opacities. This is THE visual that defines the Matrix. Combined with monospace-everything, phosphor green on black, and the single red-pill accent for critical actions, the UI feels like seeing through the code to the reality beneath. There is no spoon. There is only the interface.
+```
+
+---
+
+### 21C — Alien / Nostromo
+
+```
+STYLE: Alien Nostromo
+VIBE: The computer interfaces aboard the USCSS Nostromo. Amber CRT text on black. Chunky hardware bezels. The "MOTHER" mainframe terminal. Claustrophobic, industrial, lo-fi technology showing hi-fi data. Not sleek sci-fi — this is WORKING-CLASS sci-fi. Truckers in space. The computer is a tool, not a luxury. Everything feels like it's bolted to a bulkhead and hasn't been updated since the ship launched.
+
+TYPOGRAPHY:
+- Everything: Overpass Mono, OCR-A, or Inconsolata — monospace only
+- Wide character spacing (+0.1em) — CRT characters don't crowd
+- All-caps for system messages and labels
+- Slight CRT bloom: text-shadow in amber at 2-3px blur
+- Segment-display feel for numbers (tabular-nums)
+- Blinking cursor on focused/active elements
+
+COLORS:
+- Background: CRT off-black (#0C0A06) — warm, not cool
+- Primary: Nostromo amber (#FFB000) — THE color. Warm, phosphor amber.
+- Secondary: Dark amber (#664400) for secondary text, dim elements
+- Alert: Red (#FF2200) for warnings, alarms, xenomorph detection
+- Panel gray: (#2A2826) for hardware bezels
+- Label plates: slightly lighter gray (#3A3836) with embossed text
+- No blue, no green, no white — amber only (unless red alert)
+
+SPACING:
+- Instrument panel density — tight, organized into clusters
+- Panel-based layout (distinct hardware bezels around groups)
+- Tight internal padding (8-12px) — CRT screens were small
+- Hardware gaps between panels (thicker borders simulating physical separation)
+- Status bars along top and/or bottom edges
+
+BORDERS & SHAPES:
+- Double/triple borders simulating physical bezels:
+  - Outer: 2px solid #444
+  - Inner: 1px solid #222
+  - 4px of panel-gray between them
+- No border-radius — machined metal edges
+- Indicator lights: small circles (4-6px) that glow amber or red
+- Panel labels: small dark rectangles with lighter text ABOVE controls (not inside)
+- Bolt/screw decorations at panel corners
+- CRT screen curvature on the outermost container (slight border-radius on outer frame only)
+
+MOTION:
+- CRT power-on: brightness flash then settle on load
+- Typewriter text: characters appear 30-50ms apart
+- Amber cursor blink (1s cycle)
+- Indicator light blink for warnings (faster cycle, red)
+- Scanline: very subtle horizontal line slowly scrolling down
+- Phosphor persistence: old text slowly fades when replaced (brief ghost of previous content)
+
+DISTINCTIVE ELEMENT: Hardware bezels. The UI doesn't just look like a CRT — it looks like a CRT mounted IN a panel with physical bezels, screws, and label plates. The screen is one component within a larger instrument dashboard. "MOTHER" terminal framing: a system prompt header ("INTERFACE 2037 READY FOR INQUIRY") that feels like you're querying the ship's AI. The warmth of amber phosphor combined with the claustrophobia of industrial panels makes this feel like sitting in the Nostromo's computer room, alone, in deep space.
+```
+
+---
+
+### 21D — Lord of the Rings
+
+```
+STYLE: Lord of the Rings
+VIBE: Middle-earth as a design system. Aged parchment, Tolkien-style cartographic maps, Elvish script decorations, weathered leather bindings. The aesthetic of a beautifully hand-drawn fantasy manuscript. Not generic fantasy (no dragons and swords clip art) — specifically Tolkien's world: scholarly, linguistic, deeply LITERATE. This is the UI of someone who draws maps and invents languages for fun.
+
+TYPOGRAPHY:
+- Display: Cinzel, EB Garamond, or Libre Baskerville (old-style serif, scholarly)
+- Body: Crimson Text, Spectral, or EB Garamond (warm, readable old-style serif)
+- Accent/decorative: A script font (Great Vibes, Tangerine) for Elvish-flavored flourishes
+- All serifs, all the time — Middle-earth doesn't have sans-serif
+- Drop caps on lead paragraphs (ornamental first-letter)
+- Generous line-height (1.8) — this is a book, not a dashboard
+- Small caps for proper nouns and labels (+0.12em tracking)
+
+COLORS:
+- Background: Aged parchment (#EDE0C8) or warm vellum (#F0E6D3)
+- Text: Ink black (#1C1814) — warm, not cool
+- Primary: Deep forest green (#2A4A30) — Shire, Elvish, Ranger
+- Secondary: Rohan gold (#B8963E), Gondor silver (#8A8D8F)
+- Accent: Mordor red (#7A2A1A) used very sparingly for warnings/danger
+- Borders: Sepia brown (#8B7355), faded ink (#6A5A45)
+- Map lines: warm brown at low opacity
+- No bright colors, no saturated tones — everything is aged, earthy, weathered
+
+SPACING:
+- Manuscript proportions — wide margins, narrow text column (55-65ch)
+- Generous vertical spacing between sections
+- Content feels like a page from a hand-bound book
+- Chapter-style section breaks with ornamental dividers
+- Drop caps indent the first line of important sections
+
+BORDERS & SHAPES:
+- Parchment/leather texture on backgrounds (subtle CSS noise pattern)
+- Ornamental dividers between sections (celtic knot or vine patterns, SVG)
+- Decorative borders on key panels (thin lines with corner flourishes)
+- Map-style cartographic elements: compass roses, distance scales
+- No border-radius (books have sharp corners) — or very slight (2px)
+- Wax seal or ring motif as a decorative mark
+- No shadows — parchment doesn't cast shadows on itself
+
+MOTION:
+- Almost none — manuscripts are static
+- Very slow fade for section reveals (800ms)
+- Ink-bleed effect: text appears with slight blur-to-sharp transition
+- Page-curl hover on cards (slight 3D rotate)
+- A flickering candlelight color-temperature shift (very rare, very subtle)
+
+DISTINCTIVE ELEMENT: The manuscript page. The UI reads like a beautifully typeset book of lore — drop caps, scholarly serif typography, aged parchment backgrounds, ornamental vine/knot dividers between sections. Elvish-script-flavored decorative text appears in borders or as watermarks. A compass rose or map-style decorative element anchors the layout. The UI feels like finding a page from the Red Book of Westmarch — hand-lettered, hand-illustrated, preserved for a thousand years.
+```
+
+---
+
+### 21E — Wes Anderson
+
+```
+STYLE: Wes Anderson
+VIBE: Centered symmetry. Pastel palette. Futura font. That specific brand of quirky precision where everything is perfectly composed, slightly melancholic, and deeply intentional. Every frame is a painting. Every element is centered. The color palette looks like a Pantone swatch book curated by someone with impeccable taste and mild OCD. The UI equivalent of a tracking shot through a dollhouse.
+
+TYPOGRAPHY:
+- Display: Futura, Jost, or Century Gothic — THE Wes Anderson font is Futura
+- Body: Same family at lighter weight, or a complementary humanist sans
+- Futura medium for headers, Futura light for body — Anderson uses weight, not font variety
+- Centered text. Everything is centered. EVERYTHING.
+- Title cards: text on solid color blocks (the chapter card aesthetic)
+- Occasional handwritten accent (Caveat) for annotations
+
+COLORS:
+- Pick ONE of these Anderson palettes per implementation:
+  - Rushmore: Mustard (#D4A843), navy (#1B2A4A), cream (#F5E6C8), oxford blue (#1A2744)
+  - Grand Budapest: Pastel pink (#E8A0B4), lobby purple (#8B5E83), red (#CC3333), cream (#F5E6D0)
+  - Moonrise Kingdom: Khaki (#C4A873), olive (#6B7A4A), butter yellow (#E8D488), sky blue (#7AACCC)
+  - Royal Tenenbaums: Camel (#C49A6C), burgundy (#7B2D3F), salmon (#D4836A), forest (#2D4A3A)
+- Background: Cream or warm white (#F8F4EC)
+- All colors slightly muted — nothing at full saturation
+- Each section/card can be a different pastel block color
+
+SPACING:
+- SYMMETRICAL. Dead center. Every element centered on the page.
+- Equal margins on left and right — always
+- Generous, measured, precise — 16px base unit applied consistently
+- Content framed within the viewport like a film frame
+- Horizontal rules between sections (thin, centered, 60% width)
+
+BORDERS & SHAPES:
+- Thin borders (1px) in warm tones
+- Cards as solid color blocks (the element IS its background color)
+- No border-radius OR very precise small radius (4px)
+- No shadows — flat, graphic, like a film still
+- Centered horizontal rules as dividers
+- Passport/ID card style frames for featured content
+- Cross-section / cutaway style if showing structure
+
+MOTION:
+- Lateral tracking: elements slide in from left or right (not up/down)
+- Perfectly timed: every animation is the same duration (300ms)
+- No bounce, no overshoot — Anderson compositions don't wobble
+- Crossfade between states, not slide
+- The precision IS the personality — nothing moves that doesn't need to
+
+DISTINCTIVE ELEMENT: Perfect centered symmetry. Every element on the page is centered. Every card is the same width. Text is centered. Dividers are centered. Nothing is off-axis. Combined with the Futura typography, pastel color blocks, and flat graphic treatment, the UI looks like a Wes Anderson title card: "Chapter 7: The Contact Form." Each section is a composed frame, each color is deliberate, and the whole thing has the quiet confidence of a filmmaker who knows exactly where to put the camera.
+```
+
+---
+
+### 21F — Stranger Things / 80s Spielberg
+
+```
+STYLE: Stranger Things / 80s Spielberg
+VIBE: 1983 suburban America filtered through warm VHS. Christmas lights on wood paneling. ITC Benguiat (THE Stranger Things font). Red and warm amber on dark. Analog warmth — film grain, VHS tracking, tube TV glow. Not 80s neon (that's synthwave/vaporwave) — this is SUBURBAN 80s. Spielberg, not Blade Runner. Warm, nostalgic, slightly spooky. Like watching ET on a CRT television in your parents' basement.
+
+TYPOGRAPHY:
+- Display: ITC Benguiat is the dream — alternatives: Playfair Display (bold), Libre Baskerville (bold)
+- Body: Source Serif Pro, Crimson Text, or any warm readable serif
+- Display font is serif, bold, slightly condensed — THE Stranger Things title look
+- Warm, authoritative, slightly retro
+- Not monospace (that's hacker/terminal — this is suburban)
+- Title treatment: tracked uppercase, or mixed case bold serif
+
+COLORS:
+- Background: Dark warm (#1A1210) or Hawkins night (#0F0D0A)
+- Primary: Stranger red (#CC2222), warm amber (#E8A040)
+- Secondary: Christmas light colors — red, blue, green, yellow, used as small dots/accents
+- Text: Warm off-white (#E8DDD0), warm gray (#8A7A6A)
+- VHS warmth: slight warm orange tint on everything
+- Neon accent: one specific sign-style neon (red or amber glow, NOT blue/cyan)
+- Film grain overlay at low opacity
+
+SPACING:
+- Warm and enclosed — you're in a basement, not a void
+- Moderate padding (16-20px)
+- Content feels framed like a film shot
+- Not too dense, not too airy — suburban comfort
+- Slight vignette (edges darker) to frame content
+
+BORDERS & SHAPES:
+- Minimal borders — use warm glow and shadow for separation
+- Subtle border-radius (4-8px) — 80s electronics had slightly rounded plastic
+- Warm-tinted shadows (rgba(200,100,20,0.1))
+- Christmas light decoration: row of small colored dots (circles) as a divider
+- VHS tracking effect: occasional horizontal distortion line
+- Film grain texture overlay (very subtle)
+- Wood paneling texture possible for section backgrounds
+
+MOTION:
+- VHS glitch: brief horizontal jitter (rare, subtle)
+- Warm fade-in (300-400ms, slight blur-to-sharp like focusing a camera)
+- Neon sign flicker on title (subtle opacity oscillation)
+- Christmas lights: slight twinkle (staggered opacity animation on colored dots)
+- Nothing fast or digital-feeling — everything is analog, warm, slightly soft
+
+DISTINCTIVE ELEMENT: The ITC Benguiat-style serif title combined with Christmas light decorations. The title card treatment (warm serif text glowing against darkness) is THE Stranger Things visual. Below it, a string of small colored dots (Christmas lights) in red, blue, green, yellow serves as the signature divider element. Combined with VHS warmth, film grain, and the dark suburban palette, the UI feels like the opening credits of a show about kids on bikes in 1983 investigating something they shouldn't.
+```
+
+---
+
+### 21G — Kill Bill
+
+```
+STYLE: Kill Bill
+VIBE: Tarantino's revenge epic as a color system. Yellow and black (the Bride's tracksuit). Katana-sharp lines. Blood red splatter. Title card typography — bold, cinematic, sometimes in Japanese. The stark two-color intensity of the fight scenes. Not stylish in a subtle way — stylish in a "Uma Thurman just walked into a room full of 88 people she's about to fight" way.
+
+TYPOGRAPHY:
+- Display: Bebas Neue, Oswald (900), or any ultra-condensed heavy sans
+- Body: Barlow Condensed, DM Sans, or any clean sans
+- Japanese accent text: Noto Sans JP for occasional kanji/katakana decorative elements
+- Tarantino title card style: BOLD, condensed, uppercase, tracked
+- Chapter-style section labels: "CHAPTER 1: THE HEADER"
+- Some text in yellow on black, some in black on yellow — high contrast always
+
+COLORS:
+- Background: Black (#000000) or Bride yellow (#FFD700)
+- Primary: Kill Bill yellow (#FFD700) — THE color. Bright, flat, unapologetic.
+- Secondary: True black (#000000)
+- Accent: Blood red (#CC0000) — used for ONE element per screen (a slash, a highlight, a warning)
+- Text: Black on yellow, or yellow/white on black
+- NO gradients, NO pastels, NO muted tones
+- Two colors (yellow + black) dominate. Red enters like blood — suddenly, specifically.
+
+SPACING:
+- Cinematic proportions — widescreen feeling
+- Bold, confident spacing — not cramped, not precious
+- Chapter title cards get their own full-width blocks
+- Content sections alternate between yellow-bg and black-bg
+- Sharp divisions between sections (hard cuts, not fades)
+
+BORDERS & SHAPES:
+- No border-radius — katana cuts are straight
+- Thick dividers (3-4px) in black or yellow
+- Diagonal slash marks as decorative elements (SVG lines at 30-60° angles)
+- Blood splatter: a single red irregular shape (SVG) placed once per page
+- Japanese-style vertical text for decorative sidebar elements (writing-mode: vertical-rl)
+- No shadows — flat, graphic, like a film poster
+
+MOTION:
+- Hard cuts — no fades between states (transition: 0ms)
+- Slash entrance: elements appear with a diagonal wipe
+- Blood splatter: appears with scale animation (0 → 1, fast, with slight rotation)
+- Hover: instant color inversion (yellow becomes black, black becomes yellow)
+- Chapter reveals: text slams into place (fast translateX, 100ms)
+- Nothing gentle. Everything has the kinetic energy of a sword fight.
+
+DISTINCTIVE ELEMENT: The yellow/black alternation and the single blood-red accent. Sections alternate between yellow backgrounds with black text and black backgrounds with yellow text — the Bride's tracksuit as a layout pattern. One element per screen (a divider, a dot, a splash) is blood red, appearing suddenly like a wound in the otherwise two-color system. Combined with chapter-card titles ("CHAPTER 3: THE PROJECT"), katana-slash diagonal decorations, and occasional Japanese text, the UI is a revenge movie poster that you can scroll through.
+```
+
+---
+
+## 22. MUSIC GENRES
+
+---
+
+### 22A — Jazz Club
+
+```
+STYLE: Jazz Club
+VIBE: 2am at the Blue Note. Smoky darkness, a single warm spotlight on the stage, the curve of an upright bass. Blue Note album cover energy — bold sans-serif type on colored backgrounds with high-contrast photography. Intimate, sophisticated, nocturnal. The UI of someone who owns vinyl and has opinions about Miles Davis's electric period.
+
+TYPOGRAPHY:
+- Display: Bebas Neue, Oswald, or any bold condensed sans — Blue Note album cover style
+- Body: Source Sans Pro, Lato, or DM Sans at light weight
+- Bold condensed uppercase for titles — THE jazz album cover look
+- Light, elegant body text — the contrast between bold titles and whisper-thin body
+- Letterspacing on display (+0.05em)
+- Occasional italic for track listings / set lists
+
+COLORS:
+- Background: Smoky near-black (#0F0D0B) or midnight blue (#0D1520)
+- Primary: Spotlight amber (#D4A843), warm gold
+- Secondary: Blue Note blue (#1A5C8A), cool steel (#6A7A8A)
+- Accent: Warm cream (#F0E6D0) for text on dark
+- Spotlight effect: radial gradient in warm amber/gold, positioned above key content
+- Cigarette smoke: very subtle warm gradient haze
+- Everything warm and dim except the spotlight
+
+SPACING:
+- Intimate, not cramped — like a small club
+- Moderate padding (16-20px)
+- Content clustered under the spotlight (centered, narrow column)
+- Generous vertical spacing between sections (the pause between songs)
+- The darkness around the content IS the design
+
+BORDERS & SHAPES:
+- Minimal borders — use light and shadow for separation
+- Subtle border-radius (4-6px)
+- Album-cover-style cards: bold color background with white/cream type
+- No decorative elements — the restraint is the sophistication
+- Warm-tinted shadows (rgba(212,168,67,0.1))
+- Vinyl record circular motif possible as a decorative element
+
+MOTION:
+- Slow, smoky — 400-500ms, ease-in-out
+- Content fades from darkness (opacity)
+- Spotlight glow pulse (very subtle brightness shift)
+- Nothing fast, nothing sharp — jazz time, not pop time
+- Hover: warm glow emerges
+
+DISTINCTIVE ELEMENT: The spotlight. A warm amber radial gradient illuminating the content area from above, fading to darkness at the edges. Combined with bold Blue Note-style album cover typography (condensed uppercase sans on colored cards) and the intimate dark-club spacing, the UI feels like sitting in the front row at a midnight jazz set. The musician hasn't started playing yet. The room is waiting.
+```
+
+---
+
+### 22B — Death Metal
+
+```
+STYLE: Death Metal
+VIBE: Illegible band logos as a design PRINCIPLE. Blackletter type. Inverted imagery. All black with accents of blood red or bone white. The aesthetic of someone who thinks Cannibal Corpse album art is beautiful (it is, in its way). Aggressive, ornate, deliberately hostile to casual readability. The UI equivalent of a band logo where you can't tell where the letters end and the thorns begin.
+
+TYPOGRAPHY:
+- Display: UnifrakturCook, MedievalSharp, or any blackletter/Fraktur font
+- Body: Roboto Condensed, Barlow Condensed, or any tight condensed sans
+- Blackletter for titles — ornate, dense, almost illegible (that's the point)
+- Condensed sans for readable body — the contrast makes both work
+- ALL CAPS for everything structural
+- Extreme letter-spacing on body labels (+0.2em) — militaristic
+- Display text as DENSE as possible (letter-spacing: -0.02em or tighter)
+
+COLORS:
+- Background: Abyss black (#050505) — the darkest in the catalog
+- Primary: Blood red (#8B0000) or crimson (#6B0000) — deep, not bright
+- Secondary: Bone white (#D4CCBB), aged parchment (#C4B8A0)
+- Accent: Sickly green (#2A4A1A) or void purple (#1A0A2A) — used sparingly
+- No bright colors. Nothing above 50% saturation except the red.
+- All warmth is drained — cold, dead, underground
+
+SPACING:
+- Dense and claustrophobic in some areas (the mosh pit)
+- Vast black emptiness in others (the void)
+- Tight letter-spacing and line-height on display text
+- Content feels heavy, pressing down
+
+BORDERS & SHAPES:
+- Ornate blackletter-style decorative borders (gothic vine patterns, SVG)
+- Inverted cross motifs as decorative marks
+- No border-radius — nothing soft, nothing safe
+- Thick borders (2-3px) in blood red or bone white
+- Thorny/pointed decorative elements
+- Texture: heavy noise/grain at higher opacity than other styles (6-8%)
+
+MOTION:
+- Minimal — death metal doesn't animate, it STRIKES
+- Hover: instant color shift (no transition)
+- Possible: slow breathing pulse on background (doom metal speed)
+- Elements appear suddenly, fully formed — no fade-in
+- Screen shake on critical interactions (translateX jitter, 50ms)
+
+DISTINCTIVE ELEMENT: The blackletter typography at war with readability. Titles that are beautiful objects of dense, ornate letterforms — you can ALMOST read them, which makes you lean in. Combined with blood-red accents on abyss-black backgrounds and gothic ornamental borders, the UI feels like a hand-printed death metal show flyer. You have to work to read it. That's not a bug. That's the aesthetic.
+```
+
+---
+
+### 22C — Lo-fi Hip Hop
+
+```
+STYLE: Lo-fi Hip Hop
+VIBE: "Beats to study to." Soft purple and warm amber. Rain on a window. A desk lamp casting warm light. That specific cozy late-night feeling of studying with headphones on while it rains outside. Anime-study-girl energy. Warm, nostalgic, gentle, slightly melancholic. The most comforting UI in the catalog.
+
+TYPOGRAPHY:
+- Display: Quicksand, Nunito, or Comfortaa — soft, rounded, friendly
+- Body: Same family at regular weight
+- Rounded terminals on everything — nothing sharp
+- Comfortable sizes (16-18px body)
+- Generous line-height (1.75)
+- Nothing bold or aggressive — medium weights max (500-600)
+
+COLORS:
+- Background: Deep warm purple (#1A1424) or warm dark (#18141E)
+- Primary: Lo-fi purple (#9B8EC4), soft lavender (#B8A9D9)
+- Secondary: Warm amber (#E8A040), lamp yellow (#FFD080)
+- Accent: Rain blue (#7A9CC6), window gray (#6A7A8A)
+- Surface: rgba(255,255,255,0.04) — barely lifted from background
+- Text: Soft warm white (#E8DDD4)
+- Everything muted, warm, and slightly purple-tinted
+
+SPACING:
+- Cozy and comfortable — 16-20px base unit
+- Generous padding (24-28px in cards)
+- Nothing cramped, nothing vast — apartment-sized
+- Sections feel like zones of a warm room (desk, window, bookshelf)
+- Content feels nested, enclosed, safe
+
+BORDERS & SHAPES:
+- Generous border-radius (12-16px) — soft, cushioned
+- Very subtle borders (1px rgba(255,255,255,0.06))
+- Warm-tinted soft shadows (0 4px 16px rgba(0,0,0,0.15))
+- Rain-on-window effect possible (small translucent dots/streaks on a section background)
+- Desk lamp glow: warm radial gradient positioned to one side
+- Organic, friendly shapes — nothing angular
+
+MOTION:
+- Slow, continuous ambient — like the looping video
+- Rain drop animation (slow, subtle, repeating)
+- Gentle pulse on ambient glow (lamp light breathing)
+- Content fades in softly (400ms)
+- Lo-fi vinyl crackle feeling: slight jitter on decorative elements (very rare, very subtle)
+- Nothing sudden — everything drifts
+
+DISTINCTIVE ELEMENT: The desk lamp glow. A warm amber radial gradient positioned to one side of the content area, simulating the warm light of a desk lamp. Combined with the soft purple palette, rain-on-window effects, and rounded cozy shapes, the UI feels like studying at midnight with lo-fi beats playing and rain on the window. The most comforting UI in the catalog. You want to stay here.
+```
+
+---
+
+### 22D — Reggae / Dub
+
+```
+STYLE: Reggae Dub
+VIBE: Red, gold, and green. Sound system culture. Hand-painted dancehall signage. Big speakers, vinyl records, and bass that vibrates your chest. The aesthetic of Jamaican music culture — from Bob Marley album covers to Kingston dancehall posters. Hand-lettered, colorful, rhythmic. The typography has as much groove as the music.
+
+TYPOGRAPHY:
+- Display: Bungee, Fredoka One, or Archivo Black — chunky, bold, fills the space
+- Body: Nunito, Quicksand, or any rounded-terminal sans
+- BOLD display text — these are painted on walls and speaker boxes
+- Mixed case, sometimes hand-lettered style
+- Text often curved, arched, or following a path (for headers)
+- Heavy weights throughout (700-900)
+- Layered text shadows for depth (painted-sign technique)
+
+COLORS:
+- Background: Deep green (#0A2A0A) or black (#0A0A0A) or sunshine yellow (#FFD700)
+- Primary: THE reggae triad — Red (#CC2222), Gold (#FFD700), Green (#228B22)
+- These three colors are non-negotiable and appear in that order
+- Accent: Brown (#6B4226) for wood/natural elements
+- Warm black (#1A1A10) — never cool
+- Bold, saturated — no pastels, no muted tones
+- One Love vibes: warm throughout
+
+SPACING:
+- Rhythmic — spacing follows a beat (consistent, repeating patterns)
+- Moderate to tight — sound system posters are DENSE with info
+- Content feels alive, moving, grooving
+- Stacked horizontal bands in red/gold/green as section dividers
+- Generous in display areas, tight in info areas
+
+BORDERS & SHAPES:
+- Red/gold/green striped borders (the flag as a design element)
+- Rounded corners (12-16px) — warm, not sharp
+- Speaker cone circular motifs (concentric circles)
+- Vinyl record decorative elements
+- Hand-painted sign aesthetic: thick outlines (3-4px) with colored fill
+- Drop shadow on text: 3px 3px 0px rgba(0,0,0,0.3) — sign-painting depth
+- Lion motif as a decorative mark
+
+MOTION:
+- Rhythmic pulse — elements bob to an implied beat (subtle translateY oscillation at ~80bpm)
+- Bass vibration: slight scale pulse on key elements (1.0 → 1.01 → 1.0)
+- Speaker cone ripple (concentric circles expanding from center)
+- Nothing frantic — reggae is laid-back, even when the bass is heavy
+- Staggered entrance (elements arrive one by one, on the beat)
+
+DISTINCTIVE ELEMENT: The red/gold/green stripe. Three horizontal bars in the Ethiopian flag colors appearing as headers, dividers, and borders throughout the UI. Combined with chunky hand-painted-sign typography with text shadows, speaker-cone circular motifs, and the warm bass-heavy feeling, the UI is a Kingston dancehall poster come to life. One Love. One Design System.
+```
+
+---
+
+## 23. DECADES
+
+---
+
+### 23A — 1920s Prohibition / Speakeasy
+
+```
+STYLE: 1920s Prohibition Speakeasy
+VIBE: Secret entrance behind the bookshelf. Speak low, drink well. Art Deco but ILLICIT — all the glamour of the 1920s but hidden behind unmarked doors. Cocktail menus on hand-lettered cards. "Password required." Dim lighting, rich materials, the thrill of doing something forbidden in beautiful surroundings. Not public-facing Art Deco — private, exclusive, whispered.
+
+TYPOGRAPHY:
+- Display: Poiret One, Playfair Display (thin italic), or Cormorant Garamond
+- Body: Raleway (thin) or Lato (light)
+- Thin, elegant, QUIET display — this isn't shouting, it's whispering
+- Italic for emphasis (leaning in to tell you a secret)
+- Very generous letter-spacing (+0.15em) on uppercase labels
+- Small-caps for menu categories and labels
+- Script font accent (Great Vibes) for the establishment name
+
+COLORS:
+- Background: Speakeasy dark (#0D0B08) — warm, not cold
+- Primary: Aged gold (#B8963E), brass (#A08040)
+- Secondary: Deep burgundy (#4A1525), velvet purple (#2A1530)
+- Accent: Copper (#A06840)
+- Surface: Dark wood (#1A1510), leather (#2A1A14)
+- Text: Warm cream (#E8DDD0) — candlelit
+- Everything warm, dim, rich — you're in a basement with candles
+- Gold is the language of quality here
+
+SPACING:
+- Intimate and exclusive — content feels SECRET
+- Narrow columns, generous vertical spacing
+- Content centered, personal, one-on-one
+- Sections separated by ornamental gold dividers
+- The UI whispers, not shouts — small text, big margins
+
+BORDERS & SHAPES:
+- Art Deco geometric borders but thinner, more delicate than Glamour Deco
+- Gold hairline borders (1px solid at low opacity)
+- Ornamental gold corner pieces on key panels
+- No heavy borders — everything is subtle, suggested
+- Cocktail glass or key motif as decorative marks
+- Speakeasy door: a card that looks like it needs a password to open
+
+MOTION:
+- Slow, secretive — 500-700ms
+- Content fades from darkness like eyes adjusting to a dim room
+- Gold shimmer on hover (gradient position shift)
+- Candle flicker: slight warm color-temperature oscillation
+- Nothing sudden — everything is measured and discreet
+
+DISTINCTIVE ELEMENT: The SECRET. The UI feels like you need a password to access it. An entrance element (a card, a prompt) that asks for something before revealing content. Combined with the thin elegant typography, dim warm lighting, and gold Art Deco accents, the UI is a speakeasy you found behind a fake bookshelf. You were INVITED. Not everyone gets in.
+```
+
+---
+
+### 23B — 1960s Mod
+
+```
+STYLE: 1960s Mod
+VIBE: Op art patterns. Mary Quant. Go-go boots. Twiggy's eyelashes. The Avengers (the British TV show, not Marvel). Bold geometric black and white with ONE pop color. Everything is round, graphic, and confident. London in 1966 when everything was mod and the future was a geometric pattern in a miniskirt.
+
+TYPOGRAPHY:
+- Display: Jost, Futura, or DM Sans — clean geometric sans (Futura IS the 60s)
+- Body: Same family at lighter weight
+- Clean, geometric, confident
+- Uppercase with wide tracking for headers (+0.15em)
+- No serifs — the 60s rejected tradition
+- Large display sizes — mod is bold
+
+COLORS:
+- Background: White (#FFFFFF) or off-white (#F5F5F0)
+- Primary: Black (#000000) — the base of everything
+- Secondary: White (#FFFFFF) — black and white is the mod foundation
+- Accent: ONE pop color. Pick one:
+  - Mod orange (#FF6600)
+  - Mary Quant pink (#FF3399)
+  - Swinging London red (#EE0000)
+  - Target blue (#0066CC)
+- The pop color is used for ONE element per section — everything else is B&W
+
+SPACING:
+- Graphic and confident — 16px base
+- Generous section spacing
+- Content feels like a magazine layout or album cover
+- Centered compositions with strong geometry
+- Op art patterns need room to breathe
+
+BORDERS & SHAPES:
+- Op art patterns: black and white geometric patterns (concentric circles, checkerboards, wavy lines)
+- Perfect circles as a recurring motif (the Target/mod roundel)
+- No border-radius on rectangles, full circles on circles — geometric precision
+- Bold graphic borders (3-4px black)
+- The mod target: concentric circles in B&W (or with one pop-color ring)
+- No textures, no grain — flat, graphic, clean
+
+MOTION:
+- Optical illusion energy: patterns that appear to move (achieved through contrast, not animation)
+- Clean transitions (250ms ease)
+- Hover: pop color appears/fills (the color "arrives")
+- Possibly: slight rotation on circular elements
+- Nothing nostalgic-feeling — mod was FUTURISTIC for its time
+
+DISTINCTIVE ELEMENT: The op art pattern and the single pop color. Large-scale geometric patterns (concentric circles, wavy B&W stripes) as background elements or section fills. Everything is black and white EXCEPT one accent color used precisely and sparingly. Combined with Futura typography and bold graphic compositions, the UI feels like a 1966 Vogue editorial. The target roundel (concentric circles) appears as the signature decorative motif.
+```
+
+---
+
+### 23C — 1970s Disco
+
+```
+STYLE: 1970s Disco
+VIBE: Mirror ball reflections. Metallic gradients. Donna Summer. The Bee Gees. Everything shimmers. Chrome, gold, and rainbow light refractions. Platform shoes and polyester. Studio 54's velvet rope. The aesthetic of a decade that believed the party would never end. Warm, shiny, and dripping with confidence.
+
+TYPOGRAPHY:
+- Display: Bungee Shade, Monoton, or any display font with built-in shine/dimension
+- Body: Outfit, DM Sans, or any clean sans
+- Display text with metallic/gradient fills (background-clip: text)
+- Retro-futuristic letterspacing
+- Bold, confident, slightly extended
+- Disco fonts have PRESENCE — they fill the space and reflect light
+
+COLORS:
+- Background: Deep disco black (#0A0808) or midnight purple (#150A20)
+- Primary: Chrome silver gradient (linear-gradient: #E8E8E8 → #888888 → #E8E8E8)
+- Secondary: Gold gradient (linear-gradient: #FFD700 → #B8860B → #FFD700)
+- Accent: Rainbow refraction — brief flashes of pink (#FF69B4), cyan (#00CED1), orange (#FF8C00)
+- Mirror ball: scattered small highlights in white/rainbow at low opacity
+- Surface: Deep purple (#1A0A25) or deep blue (#0A1025)
+- Everything shimmers and catches light
+
+SPACING:
+- Glamorous and spacious — 20px base
+- Content centered, stage-lit
+- Dance floor proportions — wide, open
+- Sections feel like different areas of a club (dance floor, VIP, bar)
+
+BORDERS & SHAPES:
+- Metallic gradient borders (chrome or gold fill on border via background-clip tricks)
+- Star/sparkle decorations scattered (small 4-pointed stars ✦)
+- Mirror ball: a sphere made of small reflective squares (CSS grid of tiny gradient cells)
+- Rounded shapes (12-16px) — disco is smooth, not angular
+- Rainbow refraction streaks (thin diagonal lines of rainbow gradient)
+- No matte surfaces — everything is reflective
+
+MOTION:
+- Mirror ball rotation (slow continuous spin on decorative element)
+- Sparkle twinkle (small stars fade in and out at random positions)
+- Shimmer: metallic gradient position shift on hover (the surface catches light)
+- Rainbow refraction sweep (a diagonal color band that slowly moves across the page)
+- Pulsing to an implied beat (~120bpm, disco tempo)
+- Everything glitters
+
+DISTINCTIVE ELEMENT: The shimmer. Metallic gradient text and borders that shift when interacted with — the gradient position moves on hover, making surfaces appear to catch light from different angles. Combined with mirror ball sparkle effects (small 4-pointed stars twinkling in and out), rainbow refraction accents, and the deep disco-dark background, the UI feels like Saturday night at Studio 54. The light catches everything. Everything is beautiful. It's 1977 and the future is a dance floor.
+```
+
+---
+
+## 24. PLACES
+
+---
+
+### 24A — Tokyo Convenience Store
+
+```
+STYLE: Tokyo Convenience Store
+VIBE: Not 7-Eleven (we have that). This is a Japanese konbini — Lawson, FamilyMart, Ministop. Impossibly organized. Bright, clean, fluorescent perfection. Kawaii packaging next to perfectly triangular onigiri. The most aesthetically satisfying retail experience on earth. Everything has a place. Every label is aligned. The UI of a civilization that considers convenience an art form.
+
+TYPOGRAPHY:
+- Display: DM Sans, Outfit, or Plus Jakarta Sans — clean, modern, friendly
+- Body: Same family at regular weight
+- Clean, organized, readable — nothing decorative
+- Occasional Noto Sans JP for Japanese text accents
+- Small text sizes (13-14px body) — konbini labels are precise, not large
+- Consistent weights — no dramatic variation
+
+COLORS:
+- Background: Bright fluorescent white (#F8F8F5) — clean, lit, perfect
+- Primary: FamilyMart teal (#00A38B) or Lawson blue (#0068B7) — pick one brand energy
+- Secondary: Clean white (#FFFFFF) for cards/surfaces
+- Accent: Warm konbini beige (#F5E6C8), sakura pink (#F0B0C0) — gentle, friendly
+- Price tags: red (#CC2222) or orange (#F08030) — standard retail callouts
+- Text: Clean near-black (#222222)
+- Everything bright, clean, organized — zero grunge
+
+SPACING:
+- Perfectly organized — this is the 16px-grid-and-never-deviate style
+- Tight but not cramped (12-16px padding)
+- Everything aligned to a visible grid
+- Product-card layouts (uniform sizes, uniform gaps)
+- Shelf organization: horizontal sections with clear category headers
+- Compactness as beauty
+
+BORDERS & SHAPES:
+- Small, precise border-radius (6-8px) — modern Japanese UI standard
+- Thin borders (1px solid #E8E8E8) — clean, not decorative
+- Very subtle shadows (0 1px 3px rgba(0,0,0,0.04))
+- Kawaii-influenced rounded elements
+- Category labels with colored backgrounds (pill-shaped badges)
+- Price tags: distinct styling (bold, colored, slightly larger)
+- Clean divider lines between sections
+
+MOTION:
+- Minimal, precise — 150-200ms ease-out
+- Subtle scale on hover (1.02)
+- Nothing playful, nothing excessive — konbini efficiency
+- Loading states: clean, minimal spinners
+- The precision IS the experience
+
+DISTINCTIVE ELEMENT: Obsessive organization. Every card the same size. Every gap the same width. Every label perfectly aligned. Category color-coding (pills in brand colors) above each section. The UI doesn't just look organized — it looks like someone spent an hour making sure every item faces the same direction. That IS the Japanese konbini experience: perfection through care. It shouldn't feel this good to look at a shelf. But it does.
+```
+
+---
+
+### 24B — Havana 1955
+
+```
+STYLE: Havana 1955
+VIBE: Pastel buildings on the Malecón. Vintage American cars in turquoise and coral. Tropical Art Deco. Faded Caribbean glamour. The Cuba that existed in the golden moment before everything changed — when Havana was the Paris of the Caribbean. Ceiling fans, rum cocktails, live son music, and buildings painted in colors that have been fading beautifully for 70 years.
+
+TYPOGRAPHY:
+- Display: Playfair Display, Cormorant Garamond, or Libre Baskerville — elegant, warm serif
+- Body: Lato, Source Sans Pro, or DM Sans — clean, readable
+- Serif/sans pairing: elegant serif display with clean body
+- Italic for descriptive text (tropical ease)
+- Medium weights — not too bold, not too light (the languid middle)
+- Script accent (Pacifico, Dancing Script) for the venue/brand name
+
+COLORS:
+- Background: Faded coral (#F0C8B8) or sun-bleached turquoise (#C0DDD8)
+- Primary: Havana coral (#E8886A), faded pink (#D4928A)
+- Secondary: Caribbean turquoise (#5AACA0), ocean blue (#4A8A9A)
+- Accent: Vintage car chrome (#B0B0B0), rum amber (#C49040)
+- Text: Warm dark brown (#2A2018)
+- All colors FADED — nothing at full saturation. Everything sun-bleached.
+- The palette feels like a photograph that's been in the sun for 50 years
+
+SPACING:
+- Languid and generous — 20px base unit
+- Wide margins, comfortable padding (24-28px)
+- Content feels unhurried — you're on Caribbean time
+- Sections separated by generous whitespace
+- The warmth fills the space
+
+BORDERS & SHAPES:
+- Tropical Art Deco: softer Deco geometry with tropical influence
+- Medium border-radius (8-12px) — softened by the climate
+- Faded/weathered border effects (borders at 40-60% opacity)
+- Arch shapes (Havana's colonial architecture has lots of arches)
+- Fan palm / tropical leaf motif as decorative elements
+- Vintage car silhouette as a decorative mark
+- Warm shadows (rgba(200,100,50,0.08))
+
+MOTION:
+- Slow and warm — 400-600ms, ease-in-out
+- Ceiling fan feeling: slow, continuous, lazy rotation on a decorative element
+- Content drifts in like a warm breeze
+- Nothing urgent — mañana
+- Hover: color warms slightly
+
+DISTINCTIVE ELEMENT: The faded pastel palette. Every color looks like it's been baking in Caribbean sun for decades — desaturated, warm, beautiful in its aging. Combined with tropical Deco architecture (arches, soft geometry), serif elegance, and the languid spacing, the UI feels like walking down the Malecón at golden hour past buildings in every shade of faded coral and turquoise. A 1955 Chevy Bel Air is parked out front. The music is coming from the second floor.
+```
+
+---
+
+### 24C — NYC Subway 1980s
+
+```
+STYLE: NYC Subway 1980s
+VIBE: Graffiti tags on tile walls. The subway map as a design system. Gritty, alive, covered in layers of paint and personality. Not clean modern MTA — 1980s MTA, when every surface was a canvas and the transit system was falling apart beautifully. Tile patterns, spray paint colors, bubble letters, and the Helvetica signage trying to maintain order in the chaos.
+
+TYPOGRAPHY:
+- Display: Permanent Marker, Bungee, or any graffiti/tag-style font
+- Body: Helvetica, Arial, or any clean sans (the official MTA signage font)
+- Graffiti display over institutional body — chaos meeting order
+- MTA-style route badges: bold numbers/letters in colored circles
+- Tag-style text: slightly rotated, slightly uneven
+- Mix of spray-painted display and clean institutional body
+
+COLORS:
+- Background: Subway tile off-white (#E8E4D8) or tunnel dark (#1A1A1A)
+- Primary: Spray paint colors — Red (#EE3333), blue (#0044CC), yellow (#FFCC00)
+- Secondary: Tag colors — chrome silver (#CCCCCC), black (#111111), pink (#FF66AA)
+- MTA accent: Transit blue (#003399), route colors (green, orange, red, purple — the subway lines)
+- Tile grout: warm gray (#AAA0A0)
+- Surface: White tile (#F0EEEA) with visible grout grid
+- Gritty, layered — nothing pristine
+
+SPACING:
+- Layered and overlapping — like tagged surfaces
+- Some elements obey the grid (the signage, the tiles)
+- Others break it completely (the graffiti, the tags)
+- Tight in tag-covered areas, institutional in signage areas
+- The tension between order and chaos IS the layout
+
+BORDERS & SHAPES:
+- Tile grid as background (repeating pattern of rectangles with grout lines)
+- Spray-paint drip effects (SVG decorations)
+- MTA route badges: colored circles with white letters/numbers inside
+- Graffiti bubble-letter outlines on display text
+- Layered effect: elements that look like they're painted OVER other elements
+- Sticker/tag accumulation on surfaces
+- No clean shadows — grit and texture instead
+
+MOTION:
+- Spray paint: elements appear as if being sprayed (blur → sharp, with slight overspray)
+- Shake/rattle: subtle vibration on elements (the train is moving)
+- Tag slap: elements appear quickly, slightly rotated (like slapping a sticker)
+- Train arrival: content slides in from one side (the train entering the station)
+- Fluorescent flicker in tunnel-dark sections
+
+DISTINCTIVE ELEMENT: The tile wall with layers. The background is a subway tile grid pattern. On top of it, institutional Helvetica signage competes with graffiti-style display text. MTA route badges (colored circles) serve as category indicators. The UI feels like standing on a 1980s subway platform where the official signs are being slowly consumed by spray paint. Both layers are present. Both are readable. The tension between them is the entire aesthetic.
 ```
 
 ---

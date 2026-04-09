@@ -10,7 +10,7 @@ You know that moment when you're vibecoding at midnight and you tell Claude or C
 
 This is the fix.
 
-This repo is a menu. 89 UI styles across 20 categories, each one a self-contained block you can drop into your AI coding tool and get something that actually looks *designed* — not generated. Every style has specific fonts, hex codes, spacing rules, motion specs, and a "distinctive element" that makes it impossible to confuse with anything else.
+This repo is a menu. 107 UI styles across 24 categories, each one a self-contained block you can drop into your AI coding tool and get something that actually looks *designed* — not generated. Every style has specific fonts, hex codes, spacing rules, motion specs, and a "distinctive element" that makes it impossible to confuse with anything else.
 
 Some of them are practical. Some of them are unhinged. All of them are better than another purple gradient.
 
@@ -30,7 +30,7 @@ Some of them are practical. Some of them are unhinged. All of them are better th
   <em>Cyberpunk Interface · Memphis Pop · Noir Cinematic · Japanese Minimalism · Steampunk · Weirdcore Poolrooms</em>
 </p>
 
-These are 6 out of 89 styles. Full catalog: **[CATALOG.md](CATALOG.md)**
+These are 6 out of 107 styles. Full catalog: **[CATALOG.md](CATALOG.md)**
 
 ## How it works
 
@@ -92,6 +92,10 @@ then build the UI using those tokens.
 | **Historical & Revival** | Constructivist Propaganda, Zoot Suit / Pachuco, Vienna Secession, Metabolist Architecture, Frutiger Aero |
 | **Niche & Underground** | Cottagecore Tech, Dark Academia, Goblincore, Weirdcore (5 variants), Cassette Futurism, Diesel Deco, Salvagepunk, Hauntology, Dieselwave |
 | **Fast Food & Convenience** | 80s/90s Pizza Hut, 80s/90s Taco Bell, 90s McDonald's PlayPlace, Waffle House, Sonic Drive-In, In-N-Out, 7-Eleven, QuikTrip, Buc-ee's |
+| **Movie & Film Inspired** | Tron, The Matrix, Alien / Nostromo, Lord of the Rings, Wes Anderson, Stranger Things / 80s Spielberg, Kill Bill |
+| **Music Genres** | Jazz Club, Death Metal, Lo-fi Hip Hop, Reggae / Dub |
+| **Decades** | 1920s Prohibition / Speakeasy, 1960s Mod, 1970s Disco |
+| **Places** | Tokyo Convenience Store, Havana 1955, NYC Subway 1980s |
 
 Full catalog with every style block: **[CATALOG.md](CATALOG.md)**
 
@@ -130,6 +134,12 @@ Weirdcore Maximum Uncanny (19D-v), Salvagepunk (19G), Brutalist Web (2C)
 
 **For when you want to have fun:**
 Memphis Pop (2B), 8-Bit Pixel (3D), Punk-a-Billy (17G)
+
+**For when it's 2am and you're feeling cinematic:**
+Tron (21A), The Matrix (21B), Kill Bill (21G)
+
+**For when you're hungry:**
+Waffle House (20D), Buc-ee's (20I), 80s/90s Taco Bell (20B)
 
 ## Why this exists
 
